@@ -1,0 +1,14 @@
+[
+	{
+		"issueName": "Story",
+		"issueTitle": "DDTJSON: This is Story"
+	},
+	{
+		"issueName": "Bug",
+		"issueTitle": "DDTJSON: This is Bug"
+	},
+	{
+		"issueName": "Task",
+		"issueTitle": "DDTJSON: This is Task"
+	}
+]
